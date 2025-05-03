@@ -3,3 +3,7 @@ Code for Final Project for DSCI-D532 Applied Database Technologies.  In this pro
 
 Here is the URL:
 https://tactile-visitor-456020-f9.uk.r.appspot.com/
+
+Here is the source of my data:
+Maven Roasters: Coffee Shop Sales & Revenue Data (By Maven Analytics). (2023).
+[Dataset]. https://mavenanalytics.io/data-playground
